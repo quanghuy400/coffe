@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Caffe Mocha",
+    "subtitle": "Deep Foam",
+    "type": "Ice/Hot",
+    "price": 4.53,
+    "rating": 4.8,
+    "reviews": 230,
+    "image": "2.png",
+    "category": "All Coffee",
+    "description": "A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the foam."
+  },
+  {
+    "id": 2,
+    "name": "Flat White",
+    "subtitle": "Espresso",
+    "type": "Ice/Hot",
+    "price": 3.53,
+    "rating": 4.8,
+    "reviews": 185,
+    "image": "3.png",
+    "category": "Latte",
+    "description": "A flat white is an espresso-based drink with steamed milk and a thin layer of microfoam."
+  },
+  {
+    "id": 3,
+    "name": "Cappuccino",
+    "subtitle": "Classic",
+    "type": "Hot",
+    "price": 4.0,
+    "rating": 4.7,
+    "reviews": 210,
+    "image": "4.png",
+    "category": "Machiato",
+    "description": "A cappuccino is a classic Italian coffee drink made with equal parts espresso, steamed milk, and milk foam."
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "subtitle": "Black",
+    "type": "Hot",
+    "price": 3.0,
+    "rating": 4.6,
+    "reviews": 150,
+    "image": "5.png",
+    "category": "Americano",
+    "description": "An Americano is made by diluting espresso with hot water, giving it a similar strength to drip coffee."
+  }
+]
